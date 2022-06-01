@@ -29,7 +29,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          You to <a href="https://nextjs.org">Next.js!</a>
+          V1 to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
