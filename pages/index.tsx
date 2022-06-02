@@ -93,8 +93,10 @@ const Home: NextPage = () => {
         <div>
           Paste current url to{" "}
           <a
+            target={"_blank"}
             style={{ color: "red" }}
             href="https://search.google.com/test/rich-results"
+            rel="noreferrer"
           >
             Google Schema Test Tool
           </a>
