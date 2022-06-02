@@ -89,7 +89,16 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Schema ORG Demo</h1>
+        <h3>Schema ORG Demo</h3>
+        <div>
+          Paste current url to{" "}
+          <a
+            style={{ color: "red" }}
+            href="https://search.google.com/test/rich-results"
+          >
+            Google Schema Test Tool
+          </a>
+        </div>
       </main>
     </div>
   );
