@@ -91,7 +91,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h3>Schema ORG Demo</h3>
         <div>
-          Paste current url to{" "}
+          Paste current url (https://my-app-blue-two.vercel.app/) to{" "}
           <a
             target={"_blank"}
             style={{ color: "red" }}
